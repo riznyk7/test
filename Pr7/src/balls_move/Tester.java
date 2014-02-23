@@ -17,7 +17,7 @@ public class Tester {
 	
 	 
 	 public static void main(String[] args) {
-
+		 System.out.println("kokokokokoko");
         StdDraw.show(0);
         Particle[] particles;
         int N = Integer.parseInt(args[0]);
